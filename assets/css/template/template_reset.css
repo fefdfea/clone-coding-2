@@ -1,0 +1,18 @@
+body,article,aside,section,span,p,img,figure,h1,h2,h3,h4,h5.footer,a,header,div,span,input,textarea{margin: 0; padding: 0; }
+
+div,input,textarea{
+	box-sizing: border-box;
+}
+ul, li, ol{
+	list-style: none;
+}
+
+a{text-decoration: none; outline: none}
+
+span,p,a,em,h1,h2,h3,h4{color: black;}
+
+
+
+span,p,h1,h2,h3{
+	transform: rotate(0.03deg);
+}
